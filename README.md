@@ -62,7 +62,6 @@
 ## Screenshots
 
 ![Color Saver Extension Interface](https://github.com/user-attachments/assets/def52378-3604-457f-a5e1-8ff5f6fbfd09)
-)
 
 *A preview of the Color Saver extension interface.*
 
@@ -70,7 +69,7 @@
 
 ## License
 
-This project is licensed under the [MIT License](https://chatgpt.com/c/LICENSE).
+This project is licensed under the [MIT License](https://github.com/arakashnawin/color-saver-chrome/blob/main/LICENSE).
 
 ---
 
