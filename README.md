@@ -61,7 +61,8 @@
 
 ## Screenshots
 
-![Color Saver Extension Interface](https://prod-files-secure.s3.us-west-2.amazonaws.com/e896ec78-af51-4424-8272-a705bc18f6fe/188f4035-b39c-4bc0-be46-032a17586dc3/Screenshot_2024-11-28_at_9.24.15_PM.png)
+![Color Saver Extension Interface](https://github.com/user-attachments/assets/def52378-3604-457f-a5e1-8ff5f6fbfd09)
+)
 
 *A preview of the Color Saver extension interface.*
 
